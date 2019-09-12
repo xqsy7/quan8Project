@@ -2,7 +2,11 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import mine from "./mine";
 import home from "./home";
-import collection from "./collection"
+import sort from "./sort";
+import menu from "./menu";
+import feedback from "./feedback";
+import collection from "./collection";
+import service from "./service";
 import shoppingCar from "./shoppingCar"
 import login from "./login"
 import register from "./register"
@@ -20,7 +24,11 @@ const router = new VueRouter({
         },
         home,
         mine,
+        sort,
         collection,
+        menu,
+        feedback,
+        service,
         shoppingCar,
         login,
         register,

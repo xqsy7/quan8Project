@@ -14,7 +14,11 @@ module.exports = {
             "/dianying":{
                 target:"http://m.maoyan.com",
                 changeOrigin:true,
-            }
+            },
+            "/goods":{
+                target:"http://localhost:9010",
+                changeOrigin: true,      
+            },
         } 
     },
     configureWebpack:{

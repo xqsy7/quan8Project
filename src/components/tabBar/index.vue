@@ -33,7 +33,7 @@ export default {
                 {
                     icon:"&#xe60b;",
                     liText:"分类",
-                    path:"/gou"
+                    path:"/sort"
                 },
                 {
                     icon:"&#xe666;",
