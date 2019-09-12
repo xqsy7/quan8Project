@@ -1,0 +1,9 @@
+.page{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    padding-bottom: .88rem;
+    padding-top:1.9rem;
+}
